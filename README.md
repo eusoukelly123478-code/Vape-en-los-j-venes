@@ -91,6 +91,8 @@
     <div class="card">
         <h2>¿Cómo prevenirlo?</h2>
         <ul>
+ <img scr="Vape.jpg"/>
+    
             <li>Informarse sobre los riesgos</li>
             <li>Hablar con adultos de confianza</li>
             <li>Evitar la presión social</li>
